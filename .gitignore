@@ -1,0 +1,63 @@
+# Archivos de trabajo interno (nunca se publican)
+CLAUDE.md
+CLAUDE.local.md
+ESTADO.md
+BITACORA.md
+.claude/
+_interno
+_interno/
+_privado/
+
+# Secretos
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+*.egg-info/
+
+# Java
+target/
+build/
+*.class
+.gradle/
+
+# Node
+node_modules/
+dist/
+
+# IDE y sistema
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Datos: no se suben (cada notebook dice de dónde sacarlos)
+data/
+*.csv
+*.xlsx
+*.xls
+
+# Generados de Bison/Flex y ANTLR
+*.tab.c
+*.tab.h
+lex.yy.c
+compiladores/asociatividad-precedencia/bison/normal
+compiladores/asociatividad-precedencia/bison/pre
+compiladores/asociatividad-precedencia/bison/aso
+compiladores/asociatividad-precedencia/bison/mod
+compiladores/asociatividad-precedencia/antlr/*Lexer.py
+compiladores/asociatividad-precedencia/antlr/*Parser.py
+compiladores/asociatividad-precedencia/antlr/*Listener.py
+compiladores/asociatividad-precedencia/antlr/*Visitor.py
+!compiladores/asociatividad-precedencia/antlr/EvalVisitor*.py
+*.tokens
+*.interp
