@@ -69,7 +69,6 @@ Los datos no se suben al repositorio. Los notebooks los descargan de su fuente p
 
 ## Otros trabajos de la carrera
 
-- [ParcialBigData](https://github.com/Santy012/ParcialBigData)
 - [Simulación de semáforos autoorganizados](https://github.com/Santy012/Simulacion_Semaforos_AutoOrganizados)
 - [cvv-app](https://github.com/Milocam35/cvv-app)
 - [reservaciones-restaurantes](https://github.com/Milocam35/reservaciones-restaurantes)
