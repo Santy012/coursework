@@ -9,6 +9,7 @@ Cada notebook abre con su título y una línea de qué hace, y tiene las salidas
 | Trabajo | Año | Qué muestra | Autores | |
 |---|---|---|---|---|
 | [NumPy y Numba frente a Python puro](hpc/numpy-numba-valor-esperado-y-caos.ipynb) | 2023 | Vectorización y compilación JIT con tiempos medidos tras el calentamiento: de 7× a más de 100× sobre Python puro | Santiago Castellanos, Catalina Gutiérrez, Camilo Millán | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Santy012/coursework/blob/main/hpc/numpy-numba-valor-esperado-y-caos.ipynb) |
+| [Regresión lineal en GPU y con Dask](hpc/regresion-lineal-gpu-dask.ipynb) | 2025 | Descenso de gradiente sobre 100.000 × 1.000 en CPU, con kernels propios de Numba CUDA y con Dask, verificado contra la solución exacta y con tiempos medidos: la GPU entrena más rápido que NumPy y Dask en una sola máquina solo suma costo | Santiago Castellanos, Catalina Gutiérrez, Camilo Millán | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Santy012/coursework/blob/main/hpc/regresion-lineal-gpu-dask.ipynb) |
 
 ## Inteligencia artificial
 
